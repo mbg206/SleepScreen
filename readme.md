@@ -1,6 +1,6 @@
 # Sleep Screen
 
-Meant to be a basic little screen that plays sleep sounds.
+Meant to be a basic little screen that plays sleep sounds. Made in about a day while I was on vacation.
 
 ## Usage
 
@@ -20,4 +20,4 @@ In the sounds folder, put 3 sounds:
 
 ---
 
-I don't knwow the copyright details of the sounds and images that I have, so that's why I didn't upload them with the repository.
+I don't know the copyright details of the sounds and images that I have, so that's why I didn't upload them with the repository.
